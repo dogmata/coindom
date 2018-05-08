@@ -14,6 +14,6 @@ Mac :
 
 3. Copiez Collez à la fin du fichier hosts le contenu de la liste afin de bannir les connexions.
 
-4. Sauvegardez*
+4. Sauvegardez·
 
-* en cas de problème de droit lors de la sauvegarde vous pouvez enregistrer une copie temporaire de votre fichier hosts sur le bureau (sans extension .txt ou autres ) puis il suffit de glisser votre nouveau fichier hosts pour remplacer celui présent dans le dossier etc
+· en cas de problème de droit lors de la sauvegarde vous pouvez enregistrer une copie temporaire de votre fichier hosts sur le bureau (sans extension .txt ou autres ) puis il suffit de glisser votre nouveau fichier hosts pour remplacer celui présent dans le dossier etc
