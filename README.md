@@ -19,6 +19,7 @@ En cas de problème de droit lors de la sauvegarde vous pouvez enregistrer une c
 5. Redemarrez votre device (ou effectuez un flush de vos dns...)
 
 Sources de la liste :
+
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
