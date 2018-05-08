@@ -1,4 +1,4 @@
-# coindom - mining servers to block
+# Coindom - Mining servers to block
 Protection contre le vol d'électricité via minage.
 
 1. Téléchargez la liste :
